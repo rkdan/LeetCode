@@ -1,1 +1,0 @@
-This is a repo containing Leet Code problems to help me learn C
